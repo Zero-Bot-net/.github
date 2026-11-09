@@ -7,8 +7,9 @@
 
 <p align="center">
   <a href="https://zero-bot.net">Website</a> ·
+  <a href="https://github.com/Zero-Bot-net">Organization</a> ·
   <a href="https://www.npmjs.com/package/@zero-bot.net/tg-bot-api">npm: tg-bot-api</a> ·
-  <a href="https://zerobot-net.github.io/tg-bot-api/">Docs</a>
+  <a href="https://zero-bot-net.github.io/tg-bot-api/">Docs</a>
 </p>
 
 ## What is Zero-Bot.net?
@@ -20,17 +21,19 @@
 - **Node.js, Python, Go and Bun**, with live console, file manager, SFTP, environment variables and GitHub deploys.
 - **Honest limits:** no published uptime SLA, payments generally non-refundable, backups not part of the plan specs.
 
-Read the full, transparent breakdown (plans, payment flow, limits, who it suits): **[HOSTING.md](https://github.com/ZeroBot-net/.github/blob/main/HOSTING.md)**.
+Read the full, transparent breakdown (plans, payment flow, limits, who it suits): **[HOSTING.md](https://github.com/Zero-Bot-net/.github/blob/main/HOSTING.md)**.
 
 বাংলায়: টেলিগ্রাম বট, ডিসকর্ড বট, ওয়েবসাইট ও মিনি অ্যাপ হোস্টিং, বিকাশ/নগদ/রকেটে পেমেন্ট, মাসে ৳১০০ থেকে।
 
 ## Open-source projects
 
+Everything lives in the [**Zero-Bot-net**](https://github.com/Zero-Bot-net) organization: <https://github.com/Zero-Bot-net>
+
 | Project | What it is | Install |
 |---|---|---|
-| [**tg-bot-api**](https://github.com/ZeroBot-net/tg-bot-api) | Lightweight **Telegram Bot API** library for Node.js. Full Bot API 10.3 coverage (203 methods), polling and webhooks, TypeScript types, no build step. [Docs](https://zerobot-net.github.io/tg-bot-api/) | `npm i @zero-bot.net/tg-bot-api` |
-| [**TG-StoreBot-fastest**](https://github.com/ZeroBot-net/TG-StoreBot-fastest) | Fast **Telegram file store bot**: private channel as storage, 10-digit deep links, multi-channel backup, TTL auto-expire. Python, aiogram, SQLite. | `uv sync` |
-| [**request**](https://github.com/ZeroBot-net/request) | Maintained fork of the Node.js `request` **HTTP client**. | `npm i @zero-bot.net/request` |
+| [**tg-bot-api**](https://github.com/Zero-Bot-net/tg-bot-api) | Lightweight **Telegram Bot API** library for Node.js. Full Bot API 10.3 coverage (203 methods), polling and webhooks, TypeScript types, no build step. [Docs](https://zero-bot-net.github.io/tg-bot-api/) | `npm i @zero-bot.net/tg-bot-api` |
+| [**TG-StoreBot-fastest**](https://github.com/Zero-Bot-net/TG-StoreBot-fastest) | Fast **Telegram file store bot**: private channel as storage, 10-digit deep links, multi-channel backup, TTL auto-expire. Python, aiogram, SQLite. | `uv sync` |
+| [**request**](https://github.com/Zero-Bot-net/request) | Maintained fork of the Node.js `request` **HTTP client**. | `npm i @zero-bot.net/request` |
 
 ## Quick start: a Telegram bot in Node.js
 

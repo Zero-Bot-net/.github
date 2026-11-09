@@ -19,7 +19,7 @@
 | Telegram support | [@tanvirahmad999](https://t.me/tanvirahmad999), [@GrandmaEJ](https://t.me/GrandmaEJ) |
 | Support tickets | inside the dashboard after login |
 | Terms / Privacy | <https://zero-bot.net/terms>, <https://zero-bot.net/privacy> |
-| Open-source code | <https://github.com/ZeroBot-net> |
+| Open-source code | <https://github.com/Zero-Bot-net> |
 
 ## What you can host
 
